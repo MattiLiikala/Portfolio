@@ -2,7 +2,7 @@ var MainComponent = React.createClass({
   render: function(){
     return(
 
-      <div className="mainContainer">
+      <div className="mainContainer" id="gallery_container">
       	<h2>Posters</h2>
         <p>Posters I have made for some student events.</p>
       		<a class="poster-image-link" href="images/JR15_juliste.jpg" data-lightbox="Posters" data-title="Poster for a student-cruise"><img class="poster" src="images/JR15_juliste_thumb.jpg" alt=""/></a>

@@ -33,6 +33,7 @@ h2{
 	margin-left: auto;
 	margin-right: auto;
 	max-width: 800px;
+  
 	color: #B6B6B6;
 	background-color: rgb(33,33,33);
 	background-color: rgba(33,33,33,0.8);
@@ -42,6 +43,11 @@ h2{
 	-webkit-box-shadow: 4px 4px 42px 2px rgba(0,0,0,0.39);
 	-moz-box-shadow: 4px 4px 42px 2px rgba(0,0,0,0.39);
 	box-shadow: 4px 4px 42px 2px rgba(0,0,0,0.39);
+}
+
+#gallery_container{
+  max-height: 700px;
+  overflow-y: scroll;
 }
 
 .mainContainer p{
@@ -302,3 +308,27 @@ body:after {
   filter: progid:DXImageTransform.Microsoft.Alpha(Opacity=100);
   opacity: 1;
 }
+
+
+::-webkit-scrollbar{ 
+  width: 10px;
+}
+::-webkit-scrollbar-button{  
+  background-color: rgba(255,255,255,0.3);
+  border-radius: 50%;
+  height: 10px;
+  width: 10px;
+}
+::-webkit-scrollbar-track{ 
+  background-color: rgb(33,33,33);
+  background-color: rgba(33,33,33,0.8);
+  border-radius: 5px;
+
+ }
+::-webkit-scrollbar-track-piece{ 
+  border-radius: 5px;
+ }
+::-webkit-scrollbar-thumb{ 
+  background-color: rgba(255,255,255,0.3);
+  border-radius: 5px;
+ }

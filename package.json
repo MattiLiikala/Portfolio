@@ -17,7 +17,7 @@
     "url": "https://github.com/MattiLiikala/Portfolio/issues"
   },
   "dependencies": {
-    "lightbox2": "^2.8.2"
+    "lightbox2": "^2.8.2",
     "bootstrap": "3.3.6",
     "express": "4.13.3",
     "path": "0.12.7",
