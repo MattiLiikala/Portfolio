@@ -3,11 +3,10 @@ var MainComponent = React.createClass({
     return(
       <div className="mainContainer">
       <h1> Matti <span className="surname">Liikala</span> </h1>
-        <p>Lorem ipsum salum sipsum. Kipsun kapsun kopsun.
-        Lorem ipsum salum sipsum. Kipsun kapsun kopsun.
-        Lorem ipsum salum sipsum. Kipsun kapsun kopsun.
-        Lorem ipsum salum sipsum. Kipsun kapsun kopsun.
-        Lorem ipsum salum sipsum. Kipsun kapsun kopsun.</p>
+        <p>I am an IT -student from University of Turku. For
+        a couple of years I have been doing lots of Graphics for
+        various student events and different projects. My main
+        focus is on graphics and UX design.</p>
       </div>
     );
   }

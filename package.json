@@ -1,7 +1,7 @@
 {
-  "name": "portofolio-skeleton",
+  "name": "Portfolio",
   "version": "0.0.0",
-  "description": "A webpage skeleton project.",
+  "description": "A portfolio webpage project.",
   "main": "server.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
@@ -9,14 +9,18 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/juliusrajala/portofolio-skeleton.git"
+    "url": "https://github.com/MattiLiikala/Portfolio.git"
   },
-  "author": "Julius Rajala",
+  "author": "Matti Liikala",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/juliusrajala/portofolio-skeleton/issues"
+    "url": "https://github.com/MattiLiikala/Portfolio/issues"
   },
   "dependencies": {
     "lightbox2": "^2.8.2"
+    "bootstrap": "3.3.6",
+    "express": "4.13.3",
+    "path": "0.12.7",
+    "react": "0.14.2"
   }
 }

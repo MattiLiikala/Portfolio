@@ -1,7 +1,7 @@
 var SkeletonFooter = React.createClass({
 	render: function(){
 		return(
-			<div className="skeletonFooter">
+			<div className="footer">
 			</div>
 		);
 	}
