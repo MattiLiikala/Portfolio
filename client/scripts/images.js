@@ -7,7 +7,7 @@ var MainComponent = React.createClass({
         <p>Posters I have made for some student events.</p>
       		<a class="poster-image-link" href="images/JR15_juliste.jpg" data-lightbox="Posters" data-title="Poster for a student-cruise"><img class="poster" src="images/JR15_juliste_thumb.jpg" alt=""/></a>
       		<a class="poster-image-link" href="images/TR16_juliste.jpg" data-lightbox="Posters" data-title="Poster for another student-cruise"><img class="poster" src="images/TR16_juliste_thumb.jpg" alt="" /></a>
-          <a class="poster-image-link" href="images/HoT_juliste.jpg" data-lightbox="Posters" data-title="Poster for a Hackathon"><img class="poster" src="images/Hot_juliste_thumb.jpg" alt=""/></a>
+          <a class="poster-image-link" href="images/HoT_juliste.jpg" data-lightbox="Posters" data-title="Poster for a Hackathon"><img class="poster" src="images/HoT_juliste_thumb.jpg" alt=""/></a>
       		<a class="poster-image-link" href="images/VectorSeminar_juliste.jpg" data-lightbox="Posters" data-title="Poster for Vector -seminar afterparty"><img class="poster" src="images/VectorSeminar_juliste_thumb.jpg" alt="" /></a>
 
       	<h2>Under the great sky</h2>
