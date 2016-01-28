@@ -31,7 +31,7 @@ var MainComponent = React.createClass({
         <h2>Logos</h2>
         <p></p>
         	<a class="logo-image-link" href="images/UTGS_logo.png" data-lightbox="Logos" data-title="Under The Great Sky"><img class="logo" src="images/UTGS_logo_thumb.png" alt=""/></a>
-        	<a class="logo-image-link" href="images/Vector_Logo.png" data-lightbox="Logos" data-title="Vector ry"><img class="logo" src="images/Vector_logo_thumb.png" alt=""/></a>
+        	<a class="logo-image-link" href="images/Vector_logo.png" data-lightbox="Logos" data-title="Vector ry"><img class="logo" src="images/Vector_logo_thumb.png" alt=""/></a>
 
       </div>
 
