@@ -1,7 +1,7 @@
 body{
 	/*background-color: rgb(33,33,33);*/
 	background-image: url('/images/WebpageBackground2.jpg');
-	background-size: 180%;
+	background-size: 220%;
 
 }
 
@@ -10,7 +10,7 @@ body{
 	height: 100%;
 	background-image: url('/images/WebpageBackground2.jpg');
 	background-repeat: no-repeat;
-	background-size: 180%;
+	background-size: 220%;
 }
 
 h1{
@@ -33,7 +33,7 @@ h2{
 	margin-left: auto;
 	margin-right: auto;
 	max-width: 800px;
-  
+
 	color: #B6B6B6;
 	background-color: rgb(33,33,33);
 	background-color: rgba(33,33,33,0.8);
@@ -310,25 +310,25 @@ body:after {
 }
 
 
-::-webkit-scrollbar{ 
+::-webkit-scrollbar{
   width: 10px;
 }
-::-webkit-scrollbar-button{  
+::-webkit-scrollbar-button{
   background-color: rgba(255,255,255,0.3);
   border-radius: 50%;
   height: 10px;
   width: 10px;
 }
-::-webkit-scrollbar-track{ 
+::-webkit-scrollbar-track{
   background-color: rgb(33,33,33);
   background-color: rgba(33,33,33,0.8);
   border-radius: 5px;
 
  }
-::-webkit-scrollbar-track-piece{ 
+::-webkit-scrollbar-track-piece{
   border-radius: 5px;
  }
-::-webkit-scrollbar-thumb{ 
+::-webkit-scrollbar-thumb{
   background-color: rgba(255,255,255,0.3);
   border-radius: 5px;
  }
