@@ -7,6 +7,9 @@ var MainComponent = React.createClass({
         <a href="mailto:mamilii@utu.fi" target="_top">mamilii@utu.fi</a></h2>
         <h2>
         Phone: +358 409642995</h2>
+        <h2>
+        <a href="https://www.linkedin.com/in/mattiliikala">Visit my LinkedIn profile!</a>
+        </h2>
       </div>
     );
   }
