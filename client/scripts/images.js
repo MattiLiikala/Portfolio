@@ -20,14 +20,16 @@ var MainComponent = React.createClass({
       		<a class="game1-image-link" href="images/UTGS_screencap3.jpg" data-lightbox="Under The Great Sky" data-title="Inventory"><img class="Game1" src="images/UTGS_screencap3_thumb.jpg" alt=""/></a>
       		<a class="game1-image-link" href="images/UTGS_screencap4.jpg" data-lightbox="Under The Great Sky" data-title="Gameplay"><img class="Game1" src="images/UTGS_screencap4_thumb.jpg" alt=""/></a>
 
+
         <h2>Hamster Shelter</h2>
-        <p1>Hamster shelter is another game project in which I work as a graphic designer.
-        The game is at the moment on early alpha version, but we are participating in the
-        ICT ShowRoom -event on 10 march 2016 where it is going to be playable. The idea of
-        the game is simply to build a shelter for the hamsters before the meteor shower.</p1>
+        <p1>Hamster shelter is another game project in which I work as a graphic designer and programmer.
+        The game is at the moment on early beta version. The idea of the game is simply to
+        build a shelter for the hamsters before the meteor shower begins. Our team was
+        nominated as the best game in the ICT ShowRoom -event on 10 march 2016.</p1>
       		<a class="game2-image-link" href="images/HS_screencap1.jpg" data-lightbox="Hamster Shelter" data-title="Gameplay"><img class="Game2" src="images/HS_screencap1_thumb.jpg" alt=""/></a>
       		<a class="game2-image-link" href="images/HS_screencap2.jpg" data-lightbox="Hamster Shelter" data-title="Gameplay"><img class="Game2" src="images/HS_screencap2_thumb.jpg" alt=""/></a>
       		<a class="game2-image-link" href="images/HS_screencap3.jpg" data-lightbox="Hamster Shelter" data-title="Gameplay"><img class="Game2" src="images/HS_screencap3_thumb.jpg" alt=""/></a>
+          <a class="game2-image-link" href="images/HS_screencap4.jpg" data-lightbox="Hamster Shelter" data-title="Gameplay"><img class="Game2" src="images/HS_screencap4_thumb.jpg" alt=""/></a>
 
         <h2>Logos</h2>
         <p1></p1>
