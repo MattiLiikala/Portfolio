@@ -8,7 +8,7 @@ var MainComponent = React.createClass({
         a couple of years I have been doing lots of graphics for
         various student events and different projects. My main
         focus is on graphics and UX design. Feel free to take a look at my
-        <a href="/images.html"> projects.</a>
+        <a href="/projects.html"> projects.</a>
         </p1>
         <br></br><br></br>
         <a href="mailto:mamilii@utu.fi" target="_top" className= "social" ><img class="social" src="images/mail_icon.png" alt=""/></a>
