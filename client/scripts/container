@@ -1,0 +1,12 @@
+var MainComponent = React.createClass({
+  render: function(){
+    return(
+
+    );
+  }
+});
+
+ReactDOM.render(
+  <MainComponent/>,
+  document.getElementById('componentSet')
+);

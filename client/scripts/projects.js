@@ -3,6 +3,7 @@ var MainComponent = React.createClass({
     return(
 
       <div className="mainContainer" id="gallery_container">
+
       	<h2>Posters and other printed material</h2>
         <p1></p1>
       		<a class="poster-image-link" href="images/JR15_juliste.jpg" data-lightbox="Posters" data-title="Poster for a student-cruise"><img class="poster" src="images/JR15_juliste_thumb.jpg" alt=""/></a>
