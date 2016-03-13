@@ -124,7 +124,7 @@ p2{
   overflow-y: scroll;
 }
 
-.mainContainer p{
+.mainContainer p1{
 	width: 70%;
 	margin-left: auto;
 	margin-right: auto;
@@ -142,6 +142,10 @@ p2{
 	width:50%;
 	float: left;
 	padding-right: 20px;
+}
+
+.info p1{
+	color: #e5e5e5;
 }
 
 .projectPictures{
