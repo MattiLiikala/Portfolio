@@ -128,9 +128,11 @@ p2{
 }
 
 .mainContainer p1{
+	display: block;
 	width: 70%;
 	margin-left: auto;
 	margin-right: auto;
+	padding: 0% 2%;
 }
 
 .projectContainer{
