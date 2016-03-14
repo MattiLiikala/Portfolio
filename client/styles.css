@@ -151,13 +151,19 @@ p2{
 
 .middleInfo{
 	text-align: center;
-	padding-left: 15%;
-	padding-right: 15%;
 }
 
-.info p1,
-.middleInfo p1{
+.info p1{
+	display: block;
 	color: #e5e5e5;
+	padding: 1% 5%;
+}
+
+.middleInfo p1{
+	display: block;
+	color: #e5e5e5;
+	text-align: center;
+	padding: 1% 13%;
 }
 
 .projectPictures{
