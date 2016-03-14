@@ -90,8 +90,10 @@ p2{
 
 .gamePicture {
 	display: block;
-	margin-top: 135px;
+	margin-top: 5px;
 	margin-bottom: auto;
+	margin-left: auto;
+	margin-right: auto;
 }
 
 .playStore img{
@@ -144,7 +146,14 @@ p2{
 	padding-right: 20px;
 }
 
-.info p1{
+.middleInfo{
+	text-align: center;
+	padding-left: 15%;
+	padding-right: 15%;
+}
+
+.info p1,
+.middleInfo p1{
 	color: #e5e5e5;
 }
 
